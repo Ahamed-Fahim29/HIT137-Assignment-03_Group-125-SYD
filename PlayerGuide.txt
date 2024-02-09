@@ -1,0 +1,33 @@
+Player Guide: How to Play the Game
+
+***Player Class***
+Movements: Use the arrow keys (left and right) to move the player character horizontally across the screen.
+Jump: Press the spacebar to make the player character jump. You can jump up to 3 levels.
+Health and Lives: The player character starts with 100 health points and 3 lives. If the health reaches 0, you lose a life. If lives run out, it's game over.
+
+
+***Projectile Class***
+Shooting: Press the up arrow key to shoot projectiles upwards.
+
+
+***Enemy Class***
+Enemy Movement: Enemies move towards the player character horizontally. Avoid colliding with them to maintain your health and lives.
+
+
+***Collectible Class***
+Collection: Collectibles appear randomly throughout the levels. Collect them to earn points and sometimes gain health boosts or extra lives.
+
+
+***Level Design***
+Progression: The game consists of 3 levels. As you progress, the difficulty increases.
+Boss Enemy: At the end of the third level, you'll encounter a powerful boss enemy. Defeat it to complete the game.
+
+
+***Scoring System***
+Points: Defeat enemies and collect collectibles to earn points.
+Health Bar: Monitor your health bar to ensure you don't run out of health and lives.
+Enemy Health Bar: Keep an eye on the enemy health bars to gauge your progress in defeating them.
+
+
+***Game Over Screen***
+Restart or Quit: If you lose all your lives, you'll see a game over screen. Press 'R' to restart the game or 'Q' to quit and exit the game.
